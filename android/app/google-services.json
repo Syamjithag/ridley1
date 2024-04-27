@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673600250052",
+    "project_id": "ridley-ccecd",
+    "storage_bucket": "ridley-ccecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673600250052:android:448e018d7da4105ef2a991",
+        "android_client_info": {
+          "package_name": "com.example.ridley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDd-kyzp4aJ1z7Z2sMkMxkN_PXfyGn40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
